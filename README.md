@@ -11,6 +11,7 @@ The goal of this project is to develop a **supervised machine learning classific
 * **Forecast potential customer churn**
 * **Uncover key factors driving churn**
 * **Support targeted retention strategies**
+
 These insights can help airlines forecast potential customer exits and take proactive measures such as offering incentives, improving service quality, or launching targeted marketing campaigns to retain valuable customers.
 
 ## 📊 Why Machine Learning for Churn Prediction?
@@ -20,39 +21,35 @@ Beyond just predicting churn, **machine learning models can also identify the ke
 
 ## 📊 Project Workflow
 * **Data Import & Cleaning:**
-Merged two datasets — one containing customer loyalty history and the other tracking flight activity. Handled missing values and derived new features like total flights, points earned, and active status in 2018.
+Merged and cleaned two customer datasets — one detailing loyalty program histories and the other tracking flight activity.
 
-Exploratory Data Analysis (EDA):
-Explored trends and patterns in customer activity, loyalty engagement, and other variables that might influence churn.
+* **Exploratory Data Analysis (EDA):**
+Uncovered trends and patterns in customer behavior, demography, flight activity, and loyalty program engagement.
 
-Feature Engineering:
-Created relevant features such as total flight counts, total points earned, 2018 activity status, and churn labels.
+* **Feature Engineering:**
+Created meaningful features such as tenure, total flights, points earned, and activity status to better capture customer behavior. Also transformed categorical features into a numerical representation, scaled numerical variables to have a similar scale, and addressed class imbalance in the target variable.
 
-Model Building & Evaluation:
-Applied supervised classification algorithms to predict churn risk and evaluated model performance using appropriate metrics.
+* **Model Building & Evaluation:**
+Implemented supervised machine learning classification models to predict churn, evaluated model performance using appropriate metrics, and selected the most suitable models in the ensemble model for deployment.
 
-Insights Extraction:
-Identified key factors contributing to customer attrition, offering valuable guidance for targeted marketing and operational improvements.
+* **Insights Extraction:**
+ Identified top factors contributing to customer churn, providing valuable business insights for targeted retention campaigns, service enhancements, and customer loyalty initiatives.
 
-## 📈 Key Benefits
-* **📌 Forecast customer churn risk** to enable timely, targeted retention strategies
+## 💡 Why This Matters
+* **Customer retention is critical** to long-term business success, especially in industries like aviation with potential for high customer lifetime value.
 
-* **📌 Identify top factors contributing to churn**, providing data-driven insights for operational and marketing improvements
+* **Acquiring new customers costs significantly more** than retaining existing ones.
 
-* **📌 Optimize marketing spend and customer relationship management** by focusing efforts on high-risk customers
+* **Predictive models help businesses forecast churn** and take proactive, data-driven actions.
 
-* **📌 Enhance customer experience and loyalty programs** based on predictive insights
+* **Machine learning can reveal the most important factors influencing churn,** empowering airlines to fine-tune their loyalty programs, service quality, and marketing efforts.
 
-## 📂 Project Structure
-data/ – Dataset used for model training and evaluation
+## 📓 Project Notebook
+The full analysis, visualizations, and commentary are available in the accompanying Jupyter Notebook:
 
 notebooks/ – Jupyter notebooks detailing the exploratory data analysis (EDA), feature engineering, model development, and evaluation processes
 
-models/ – Saved model files
+## 🚀 Conclusion
+This project showcases how blending business understanding with machine learning can lead to smarter decision-making, solve practical problems, reduce customer attrition, and improve profitability in the airline industry.
 
-results/ – Model performance metrics and visualizations
-
-README.md – Project overview and documentation
-
-## 🔍 Conclusion
-This project underscores the critical role of data-driven decision making in customer retention strategies within the airline industry. By integrating machine learning solutions into customer relationship management processes, airlines can not only reduce churn but also foster long-term customer loyalty, improve profitability, and maintain a strong competitive edge in a rapidly evolving market.
+Machine learning offers a powerful, data-driven approach for predicting customer churn and uncovering the reasons behind customer attrition. By integrating predictive analytics into customer relationship management processes, airlines can not only reduce churn but also foster long-term customer loyalty, improve profitability, and maintain a strong competitive edge.
