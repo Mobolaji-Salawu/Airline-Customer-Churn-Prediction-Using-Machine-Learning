@@ -7,7 +7,7 @@ In today’s highly competitive business environment, **customer retention has b
 Research consistently shows that **acquiring a new customer can cost 5 to 7 times more than retaining an existing one**. This makes it imperative for businesses, including those in aviation, to proactively identify at-risk customers and implement strategies aimed at improving customer satisfaction and loyalty.
 
 ## 🎯 Project Objective
-The goal of this project is to develop a **supervised machine learning classification model** capable of predicting whether a customer is likely to churn based on historical customer data. This project aims to:
+The goal of this project is to develop a **supervised machine learning classification model** capable of predicting whether a customer is likely to churn based on historical customer data. The project aims to:
 * **Forecast potential customer churn**
 * **Uncover key factors driving churn**
 * **Support targeted retention strategies**
