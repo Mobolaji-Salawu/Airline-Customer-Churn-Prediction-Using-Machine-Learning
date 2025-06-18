@@ -47,7 +47,7 @@ Identified top factors contributing to customer churn, providing valuable busine
 ## 📓 Project Notebook
 The full analysis, visualizations, and commentary are available in the accompanying Jupyter Notebook:
 
-notebooks/ – Jupyter notebooks detailing the exploratory data analysis (EDA), feature engineering, model development, and evaluation processes
+📄 [Airline_Customer_Churn_Prediction.ipynb](https://github.com/Mobolaji-Salawu/Airline-Customer-Churn-Prediction-Using-Machine-Learning/blob/main/Airline_Customer_Churn_Prediction.ipynb)
 
 ## 🚀 Conclusion
 This project showcases how blending business understanding with machine learning can lead to smarter decision-making, solve practical problems, reduce customer attrition, and improve profitability in the airline industry.
