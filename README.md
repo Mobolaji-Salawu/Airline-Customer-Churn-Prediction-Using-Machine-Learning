@@ -19,7 +19,7 @@ These insights can help airlines forecast potential customer exits and take proa
 Beyond just predicting churn, **machine learning models can also identify the key drivers behind customer attrition**. By analyzing feature importance and examining customer attributes such as satisfaction scores, loyalty program membership, travel frequency, and service experience, businesses gain actionable insights into the factors most influencing churn. This information is invaluable for guiding marketing strategies, service improvements, and customer engagement initiatives.
 
 ## 📊 Project Workflow
-1. Data Import & Cleaning:
+* **Data Import & Cleaning:**
 Merged two datasets — one containing customer loyalty history and the other tracking flight activity. Handled missing values and derived new features like total flights, points earned, and active status in 2018.
 
 Exploratory Data Analysis (EDA):
