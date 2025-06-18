@@ -12,7 +12,7 @@ The goal of this project is to develop a **supervised machine learning classific
 * **Uncover key factors driving churn**
 * **Support targeted retention strategies**
 
-These insights can help airlines forecast potential customer exits and take proactive measures such as offering incentives, improving service quality, or launching targeted marketing campaigns to retain valuable customers.
+These insights can help airlines not only forecast potential customer exits but also take proactive measures such as offering incentives, improving service quality, or launching targeted marketing campaigns to retain valuable customers.
 
 ## 📊 Why Machine Learning for Churn Prediction?
 **Supervised machine learning techniques, particularly classification analysis**, are well-suited for churn prediction because they can learn from labeled historical data to distinguish between customers who have churned and those who have not. This allows businesses to classify current customers based on their likelihood of leaving.
