@@ -33,7 +33,7 @@ Created meaningful features such as tenure, total flights, points earned, and ac
 Implemented supervised machine learning classification models to predict churn, evaluated model performance using appropriate metrics, and selected the most suitable models in the ensemble model for deployment.
 
 * **Insights Extraction:**
- Identified top factors contributing to customer churn, providing valuable business insights for targeted retention campaigns, service enhancements, and customer loyalty initiatives.
+Identified top factors contributing to customer churn, providing valuable business insights for targeted retention campaigns, service enhancements, and customer loyalty initiatives.
 
 ## 💡 Why This Matters
 * **Customer retention is critical** to long-term business success, especially in industries like aviation with potential for high customer lifetime value.
