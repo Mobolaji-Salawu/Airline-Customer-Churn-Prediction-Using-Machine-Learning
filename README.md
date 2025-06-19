@@ -1,4 +1,4 @@
-![resized_image_new_1](https://github.com/user-attachments/assets/cd48436a-3346-42d8-8f63-1bf02172204e)
+![adjusted_image_1](https://github.com/user-attachments/assets/5e4a6fd8-073d-4375-b80c-fbc421e3f223)
 # Airline Customer Churn Prediction Using Machine Learning
 ## 📌 Overview
 In today’s highly competitive business environment, **customer retention has become a top priority for organizations across all sectors** — and the airline industry is no exception. Retaining existing customers is not only more cost-effective than acquiring new ones but also critical for sustaining long-term profitability and growth.
